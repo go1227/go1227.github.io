@@ -1,0 +1,55 @@
+{
+	"fish": [
+		{
+			"common_name": "molly",
+			"habitat": "freshwater",
+			"country": "mexico",
+			"classification": [
+				{
+					"kingdom": "animalia",
+					"phylum": "chordata",
+					"class": "actinopterygii",
+					"order": "cyprinodontiformes",
+					"family": "poeciliidae",
+					"genus": "poecilia",
+					"species": "P. sphenops"
+				}
+			],
+			"synonyms": [
+				{"name": "Mollienisia sphenops"},
+				{"name": "Poecilia thermalis"},
+				{"name": "Gambusia modesta "}
+			],
+			"size": [
+				{"male": "3.2", "female": "4.8"}
+			],
+			"variety": ["Short-finned molly", "Black molly", "White molly", "Golden molly", "Balloon molly"]
+		},
+
+		{
+			"common_name": "molly1",
+			"habitat": "freshwater",
+			"country": "mexico",
+			"classification": [
+				{
+					"kingdom": "animalia",
+					"phylum": "chordata",
+					"class": "actinopterygii",
+					"order": "cyprinodontiformes",
+					"family": "poeciliidae",
+					"genus": "poecilia",
+					"species": "P. sphenops"
+				}
+			],
+			"synonyms": [
+				{"name": "Mollienisia sphenops"},
+				{"name": "Poecilia thermalis"},
+				{"name": "Gambusia modesta "}
+			],
+			"size": [
+				{"male": "3.2", "female": "4.8"}
+			],
+			"variety": ["Short-finned molly1", "Black molly1", "White molly1", "Golden molly1", "Balloon molly1"]
+		}
+	]
+}
